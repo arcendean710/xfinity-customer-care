@@ -3,7 +3,7 @@ How to Contact Xfinity Customer Care?
 
 Xfinity, operated by Comcast, provides internet, cable TV, phone, and home security services to millions of customers across the United States. With such a wide range of services, there can be times when customers need assistance for billing, technical issues, equipment setup, or account management. That’s where **Xfinity customer care** comes in. Whether you are experiencing a service outage or simply need help accessing your account, knowing how to contact **Xfinity support** can save time and reduce stress.
 
-.. image:: start.png
+.. image:: care.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
